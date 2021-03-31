@@ -15,7 +15,7 @@ mkdir gcbdemo
 cd gcbdemo
 
 # Clone code from github repository
-git clone https://github.com/KumarAbhishekShahi/gcbdemo.git
+git clone https://github.com/RAJU009F/gcbdemo.git
 
 # Change current diectory to gcbdemo
 cd gcbdemo
